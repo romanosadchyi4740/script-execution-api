@@ -5,6 +5,9 @@ import lombok.Setter;
 
 import java.util.Date;
 
+/**
+ * Entity to hold the information about a script execution.
+ */
 @Getter
 public class Script {
     private final String id;
